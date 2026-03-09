@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "17",
+  "base_artist": "リーガルリリー",
+  "createdAt": "2026-03-09T13:07:21.510711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After 17",
+      "artist": "陳綺貞",
+      "has_synced": true,
+      "path": "select/01_After_17_陳綺貞.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "After 17",
+      "artist": "陈绮贞",
+      "has_synced": true,
+      "path": "select/02_After_17_陈绮贞.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "after 17",
+      "artist": "陈绮贞",
+      "has_synced": true,
+      "path": "select/03_after_17_陈绮贞.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "17+4",
+      "artist": "Fünf Sterne Deluxe",
+      "has_synced": false,
+      "path": "select/04_17+4_Fünf_Sterne_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "17",
+      "artist": "Youth Lagoon",
+      "has_synced": true,
+      "path": "select/05_17_Youth_Lagoon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet 17",
+      "artist": "jonatan leandoer96",
+      "has_synced": false,
+      "path": "select/06_Sweet_17_jonatan_leandoer96.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "17 Años",
+      "artist": "Juan Gabriel & María Victoria",
+      "has_synced": true,
+      "path": "select/07_17_Años_Juan_Gabriel_&_María_Victoria.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "17 Años (Concierto Sinfónico Cumbia Fuzion)",
+      "artist": "Los Ángeles Azules & Jay De La Cueva",
+      "has_synced": true,
+      "path": "select/08_17_Años_(Concierto_Sinfónico_Cumbia_Fuzion)_Los_Ángeles_Azules_&_Jay_De_La_Cueva.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Summer 17",
+      "artist": "Oliver Francis feat. Cold Hart",
+      "has_synced": true,
+      "path": "select/09_Summer_17_Oliver_Francis_feat._Cold_Hart.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Summer 17 (feat. Cold Hart)",
+      "artist": "Oliver Francis",
+      "has_synced": true,
+      "path": "select/10_Summer_17_(feat._Cold_Hart)_Oliver_Francis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Section 17 (Suitcase Calling)",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/11_Section_17_(Suitcase_Calling)_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sexy 17 (feat. Jack Uzi)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/12_Sexy_17_(feat._Jack_Uzi)_David_Guetta.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "17",
+      "artist": "リーガルリリー",
+      "has_synced": false,
+      "path": "select/pl_01_17_リーガルリリー.txt"
+    }
+  ]
+}
